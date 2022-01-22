@@ -1,2 +1,2 @@
 # Ornek-Website
-Öylesine kendime geliştirmek adına yaptığım bir website
+###### Öylesine kendime geliştirmek adına yaptığım bir website
